@@ -1,6 +1,5 @@
 - Hi, I’m @ItzKasmi
-- I’m interested in Ethical Hacking and Software Development
-- I’m currently learning JavaScript
+- I’m interested in Ethical Hacking
 - You can reach me at itzkasmi@gmail.com
 
 <!---
