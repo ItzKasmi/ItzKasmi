@@ -32,7 +32,7 @@ I am ItzKasmi</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzkasmi&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkasmi&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzkasmi&layout=compact&theme=radical"/>
+  
 </p>
 
 <br/>
