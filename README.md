@@ -29,12 +29,9 @@ I am ItzKasmi</h2>
 
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
-
-[![ItzKasmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzkasmi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzkasmi&theme=radical)](https://git.io/streak-stats)
-
-
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzkasmi&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkasmi&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzkasmi&layout=compact&theme=radical"/>
 </p>
 
