@@ -27,16 +27,6 @@ I am ItzKasmi</h2>
 
 <br/>
 
-## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzkasmi&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkasmi&theme=radical"/>
-  
-</p>
-
-<br/>
-
 <!---
 ItzKasmi/ItzKasmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
